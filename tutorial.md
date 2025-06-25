@@ -6,7 +6,7 @@ As a developer you will need optimize your system to 10x your productivity. Noth
 
 ## Required Tools
 
-Like with your dev environment, you need to gather the right tools for the job. To brew your l33tCoff33, you will need:
+Like your dev environment, you need to gather the right tools for the job. To brew your l33tCoff33, you will need:
 
 - a Chemex Brewer
 - Chemex Coffee Filters
